@@ -1,4 +1,4 @@
-package com.gmrodrigues.dirurils;
+package com.gmrodrigues.dirutils;
 
 import java.io.File;
 

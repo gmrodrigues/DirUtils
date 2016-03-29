@@ -1,7 +1,7 @@
-package com.gmrodrigues.dirurils.test;
+package com.gmrodrigues.dirutils.test;
 
-import com.gmrodrigues.dirurils.DirUtils;
-import com.gmrodrigues.dirurils.FileOutsideDirectoryHierarchyException;
+import com.gmrodrigues.dirutils.DirUtils;
+import com.gmrodrigues.dirutils.FileOutsideDirectoryHierarchyException;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
